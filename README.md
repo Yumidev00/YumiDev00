@@ -25,6 +25,6 @@
   </a>
 </p>
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yumidev00&hide_title=true&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=false&hide_border=true)](https://github.com/yumidev00/YumiDev00)
+<!-- / [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yumidev00&hide_title=true&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=false&hide_border=true)](https://github.com/yumidev00/YumiDev00) / -->
 
 <!-- / GitHub Stats / -->
